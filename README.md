@@ -1,5 +1,7 @@
 # router-wifi-simulation
 
+team member: @[malakg1](https://github.com/malakg1)
+
 Problem Description:
 
 This project simulates a limited number of devices connected to a router's Wi-Fi using Java threading and semaphore. The router restricts the number of open connections and accepts new connections only when existing ones are released. Devices perform activities such as connecting, performing online tasks, and logging out, with random waiting times between actions.
@@ -23,3 +25,5 @@ Classes:
   
 Program Output:
 The program generates output logs in a file, simulating the execution order of device threads and their corresponding actions.
+
+
